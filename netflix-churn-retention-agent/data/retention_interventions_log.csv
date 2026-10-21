@@ -1,0 +1,251 @@
+customer_id,recommended_action,intervention_date,is_approved,approved_by,is_executed,is_control_group,follow_up_outcome,evaluation_period_days,intervention_cost
+NFLX-EXP-1000,Frictionless Payment Resolution,2026-08-17,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1001,Frictionless Payment Resolution,2026-08-20,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1002,VIP Priority Care Outreach,2026-08-17,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1003,Plan Right-Sizing Advisory,2026-08-29,True,Retention Lead (Trial Run),True,False,Churned,30,1.25
+NFLX-EXP-1004,VIP Priority Care Outreach,2026-08-22,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1005,Targeted Win-Back & Trending Highlight,2026-09-07,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1006,Plan Right-Sizing Advisory,2026-08-14,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1007,VIP Priority Care Outreach,2026-09-02,True,Retention Lead (Trial Run),True,False,Churned,30,8.0
+NFLX-EXP-1008,VIP Priority Care Outreach,2026-08-16,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1009,Targeted Win-Back & Trending Highlight,2026-09-15,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1010,Plan Right-Sizing Advisory,2026-08-18,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1011,Plan Right-Sizing Advisory,2026-09-02,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1012,Targeted Win-Back & Trending Highlight,2026-09-11,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1013,Targeted Win-Back & Trending Highlight,2026-08-21,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1014,VIP Priority Care Outreach,2026-08-19,True,Retention Lead (Trial Run),True,False,Churned,30,8.0
+NFLX-EXP-1015,Targeted Win-Back & Trending Highlight,2026-08-15,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1016,Personalized Genre Re-engagement,2026-08-20,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1017,Plan Right-Sizing Advisory,2026-09-16,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1018,Targeted Win-Back & Trending Highlight,2026-08-19,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1019,Targeted Win-Back & Trending Highlight,2026-08-25,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1020,Targeted Win-Back & Trending Highlight,2026-08-21,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1021,Frictionless Payment Resolution,2026-08-17,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1022,Frictionless Payment Resolution,2026-08-25,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1023,Personalized Genre Re-engagement,2026-08-30,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1024,Plan Right-Sizing Advisory,2026-08-13,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1025,Plan Right-Sizing Advisory,2026-09-05,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1026,Frictionless Payment Resolution,2026-08-25,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1027,Targeted Win-Back & Trending Highlight,2026-08-31,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1028,Personalized Genre Re-engagement,2026-09-16,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1029,VIP Priority Care Outreach,2026-08-29,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1030,Plan Right-Sizing Advisory,2026-09-10,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1031,Frictionless Payment Resolution,2026-09-01,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1032,VIP Priority Care Outreach,2026-09-02,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1033,Personalized Genre Re-engagement,2026-08-09,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1034,Targeted Win-Back & Trending Highlight,2026-09-06,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1035,Personalized Genre Re-engagement,2026-08-19,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1036,Frictionless Payment Resolution,2026-09-13,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1037,VIP Priority Care Outreach,2026-09-08,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1038,Targeted Win-Back & Trending Highlight,2026-09-09,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1039,Targeted Win-Back & Trending Highlight,2026-08-19,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1040,Frictionless Payment Resolution,2026-08-24,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1041,VIP Priority Care Outreach,2026-08-31,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1042,Frictionless Payment Resolution,2026-09-03,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1043,Frictionless Payment Resolution,2026-08-24,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1044,Plan Right-Sizing Advisory,2026-08-24,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1045,Personalized Genre Re-engagement,2026-09-16,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1046,Targeted Win-Back & Trending Highlight,2026-08-16,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1047,VIP Priority Care Outreach,2026-08-28,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1048,Targeted Win-Back & Trending Highlight,2026-08-29,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1049,Targeted Win-Back & Trending Highlight,2026-08-27,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1050,Personalized Genre Re-engagement,2026-08-14,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1051,Personalized Genre Re-engagement,2026-08-25,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1052,Frictionless Payment Resolution,2026-09-05,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1053,Plan Right-Sizing Advisory,2026-08-17,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1054,Plan Right-Sizing Advisory,2026-09-07,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1055,Targeted Win-Back & Trending Highlight,2026-09-02,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1056,Plan Right-Sizing Advisory,2026-09-04,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1057,VIP Priority Care Outreach,2026-08-27,True,Retention Lead (Trial Run),True,False,Churned,30,8.0
+NFLX-EXP-1058,Frictionless Payment Resolution,2026-09-10,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1059,Plan Right-Sizing Advisory,2026-08-08,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1060,Plan Right-Sizing Advisory,2026-08-12,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1061,Targeted Win-Back & Trending Highlight,2026-09-04,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1062,Targeted Win-Back & Trending Highlight,2026-09-02,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1063,Personalized Genre Re-engagement,2026-09-06,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1064,Frictionless Payment Resolution,2026-09-12,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1065,VIP Priority Care Outreach,2026-09-09,True,Retention Lead (Trial Run),True,False,Churned,30,8.0
+NFLX-EXP-1066,Frictionless Payment Resolution,2026-09-09,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1067,Personalized Genre Re-engagement,2026-08-09,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1068,Plan Right-Sizing Advisory,2026-09-16,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1069,Frictionless Payment Resolution,2026-08-20,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1070,Plan Right-Sizing Advisory,2026-08-20,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1071,Plan Right-Sizing Advisory,2026-08-15,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1072,Plan Right-Sizing Advisory,2026-09-11,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1073,Frictionless Payment Resolution,2026-09-01,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1074,Targeted Win-Back & Trending Highlight,2026-08-21,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1075,Plan Right-Sizing Advisory,2026-08-11,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1076,Frictionless Payment Resolution,2026-08-22,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1077,VIP Priority Care Outreach,2026-08-31,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1078,Frictionless Payment Resolution,2026-08-10,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1079,VIP Priority Care Outreach,2026-08-16,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1080,Personalized Genre Re-engagement,2026-08-14,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1081,Personalized Genre Re-engagement,2026-08-26,True,Retention Lead (Trial Run),True,False,Churned,30,0.85
+NFLX-EXP-1082,VIP Priority Care Outreach,2026-08-23,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1083,Plan Right-Sizing Advisory,2026-08-30,True,Retention Lead (Trial Run),True,False,Churned,30,1.25
+NFLX-EXP-1084,Personalized Genre Re-engagement,2026-08-29,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1085,Plan Right-Sizing Advisory,2026-08-18,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1086,Plan Right-Sizing Advisory,2026-09-14,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1087,Frictionless Payment Resolution,2026-08-15,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1088,Plan Right-Sizing Advisory,2026-08-11,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1089,Targeted Win-Back & Trending Highlight,2026-09-10,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1090,VIP Priority Care Outreach,2026-09-14,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1091,Targeted Win-Back & Trending Highlight,2026-08-24,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1092,Plan Right-Sizing Advisory,2026-09-04,True,Retention Lead (Trial Run),True,False,Churned,30,1.25
+NFLX-EXP-1093,VIP Priority Care Outreach,2026-08-13,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1094,Plan Right-Sizing Advisory,2026-09-07,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1095,Plan Right-Sizing Advisory,2026-08-31,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1096,Plan Right-Sizing Advisory,2026-08-27,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1097,Frictionless Payment Resolution,2026-09-14,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1098,Plan Right-Sizing Advisory,2026-08-14,True,Retention Lead (Trial Run),True,False,Churned,30,1.25
+NFLX-EXP-1099,Personalized Genre Re-engagement,2026-08-15,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1100,VIP Priority Care Outreach,2026-08-16,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1101,Personalized Genre Re-engagement,2026-08-27,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1102,VIP Priority Care Outreach,2026-09-01,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1103,Frictionless Payment Resolution,2026-09-11,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1104,VIP Priority Care Outreach,2026-09-07,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1105,VIP Priority Care Outreach,2026-09-03,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1106,Personalized Genre Re-engagement,2026-09-05,True,Retention Lead (Trial Run),True,False,Churned,30,0.85
+NFLX-EXP-1107,Plan Right-Sizing Advisory,2026-08-28,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1108,Plan Right-Sizing Advisory,2026-08-14,True,Retention Lead (Trial Run),True,False,Churned,30,1.25
+NFLX-EXP-1109,Targeted Win-Back & Trending Highlight,2026-08-26,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1110,Frictionless Payment Resolution,2026-08-18,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1111,Targeted Win-Back & Trending Highlight,2026-08-13,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1112,VIP Priority Care Outreach,2026-09-13,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1113,Targeted Win-Back & Trending Highlight,2026-08-10,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1114,Frictionless Payment Resolution,2026-08-15,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1115,Plan Right-Sizing Advisory,2026-08-16,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1116,VIP Priority Care Outreach,2026-08-24,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1117,Frictionless Payment Resolution,2026-09-10,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1118,Targeted Win-Back & Trending Highlight,2026-08-29,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1119,Plan Right-Sizing Advisory,2026-08-16,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1120,Frictionless Payment Resolution,2026-08-10,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1121,VIP Priority Care Outreach,2026-09-13,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1122,Plan Right-Sizing Advisory,2026-08-17,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1123,VIP Priority Care Outreach,2026-08-12,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1124,VIP Priority Care Outreach,2026-09-02,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1125,Plan Right-Sizing Advisory,2026-09-11,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1126,VIP Priority Care Outreach,2026-09-01,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1127,Plan Right-Sizing Advisory,2026-08-10,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1128,Frictionless Payment Resolution,2026-09-01,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1129,Plan Right-Sizing Advisory,2026-08-09,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1130,Plan Right-Sizing Advisory,2026-08-22,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1131,Frictionless Payment Resolution,2026-08-20,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1132,VIP Priority Care Outreach,2026-08-14,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1133,Personalized Genre Re-engagement,2026-08-30,True,Retention Lead (Trial Run),True,False,Churned,30,0.85
+NFLX-EXP-1134,VIP Priority Care Outreach,2026-08-16,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1135,Frictionless Payment Resolution,2026-08-12,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1136,Frictionless Payment Resolution,2026-09-12,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1137,Frictionless Payment Resolution,2026-08-21,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1138,Plan Right-Sizing Advisory,2026-09-15,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1139,Plan Right-Sizing Advisory,2026-08-16,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1140,Personalized Genre Re-engagement,2026-08-21,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1141,Frictionless Payment Resolution,2026-09-14,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1142,Plan Right-Sizing Advisory,2026-09-07,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1143,VIP Priority Care Outreach,2026-08-15,True,Retention Lead (Trial Run),True,False,Churned,30,8.0
+NFLX-EXP-1144,Plan Right-Sizing Advisory,2026-08-20,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1145,Targeted Win-Back & Trending Highlight,2026-09-08,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1146,Targeted Win-Back & Trending Highlight,2026-08-18,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1147,Targeted Win-Back & Trending Highlight,2026-09-10,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1148,Frictionless Payment Resolution,2026-09-06,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1149,VIP Priority Care Outreach,2026-08-23,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1150,Frictionless Payment Resolution,2026-09-15,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1151,Targeted Win-Back & Trending Highlight,2026-09-10,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1152,Personalized Genre Re-engagement,2026-08-08,True,Retention Lead (Trial Run),True,False,Churned,30,0.85
+NFLX-EXP-1153,Personalized Genre Re-engagement,2026-08-22,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1154,Personalized Genre Re-engagement,2026-08-10,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1155,Targeted Win-Back & Trending Highlight,2026-08-20,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1156,Frictionless Payment Resolution,2026-09-11,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1157,Plan Right-Sizing Advisory,2026-08-29,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1158,Plan Right-Sizing Advisory,2026-09-05,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1159,VIP Priority Care Outreach,2026-08-23,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1160,Frictionless Payment Resolution,2026-08-31,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1161,VIP Priority Care Outreach,2026-09-04,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1162,Targeted Win-Back & Trending Highlight,2026-08-29,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1163,Personalized Genre Re-engagement,2026-08-25,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1164,Targeted Win-Back & Trending Highlight,2026-08-21,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1165,Personalized Genre Re-engagement,2026-08-26,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1166,Targeted Win-Back & Trending Highlight,2026-09-02,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1167,Targeted Win-Back & Trending Highlight,2026-08-12,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1168,VIP Priority Care Outreach,2026-08-27,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1169,Targeted Win-Back & Trending Highlight,2026-08-14,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1170,Frictionless Payment Resolution,2026-09-14,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1171,Frictionless Payment Resolution,2026-09-05,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1172,VIP Priority Care Outreach,2026-09-04,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1173,Targeted Win-Back & Trending Highlight,2026-08-14,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1174,VIP Priority Care Outreach,2026-09-10,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1175,Targeted Win-Back & Trending Highlight,2026-09-02,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1176,Targeted Win-Back & Trending Highlight,2026-08-17,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1177,Frictionless Payment Resolution,2026-08-19,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1178,Personalized Genre Re-engagement,2026-09-16,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1179,Targeted Win-Back & Trending Highlight,2026-09-10,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1180,Plan Right-Sizing Advisory,2026-08-08,True,Retention Lead (Trial Run),True,False,Churned,30,1.25
+NFLX-EXP-1181,Plan Right-Sizing Advisory,2026-08-08,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1182,Plan Right-Sizing Advisory,2026-09-01,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1183,Frictionless Payment Resolution,2026-08-30,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1184,Personalized Genre Re-engagement,2026-09-09,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1185,VIP Priority Care Outreach,2026-09-07,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1186,Plan Right-Sizing Advisory,2026-08-24,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1187,Personalized Genre Re-engagement,2026-09-07,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1188,Targeted Win-Back & Trending Highlight,2026-08-22,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1189,VIP Priority Care Outreach,2026-09-14,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1190,Plan Right-Sizing Advisory,2026-09-03,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1191,Targeted Win-Back & Trending Highlight,2026-08-17,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1192,Targeted Win-Back & Trending Highlight,2026-08-11,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1193,Personalized Genre Re-engagement,2026-09-03,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1194,Targeted Win-Back & Trending Highlight,2026-09-12,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1195,VIP Priority Care Outreach,2026-08-22,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1196,Personalized Genre Re-engagement,2026-09-09,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1197,VIP Priority Care Outreach,2026-08-30,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1198,Targeted Win-Back & Trending Highlight,2026-09-16,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1199,Targeted Win-Back & Trending Highlight,2026-08-22,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1200,Plan Right-Sizing Advisory,2026-08-28,True,Retention Lead (Trial Run),True,False,Churned,30,1.25
+NFLX-EXP-1201,Targeted Win-Back & Trending Highlight,2026-08-19,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1202,Targeted Win-Back & Trending Highlight,2026-08-13,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1203,Plan Right-Sizing Advisory,2026-08-30,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1204,Targeted Win-Back & Trending Highlight,2026-08-09,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1205,Plan Right-Sizing Advisory,2026-08-18,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1206,Frictionless Payment Resolution,2026-09-12,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1207,Plan Right-Sizing Advisory,2026-08-28,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1208,Personalized Genre Re-engagement,2026-08-08,True,Retention Lead (Trial Run),True,False,Churned,30,0.85
+NFLX-EXP-1209,VIP Priority Care Outreach,2026-09-13,True,Retention Lead (Trial Run),True,False,Churned,30,8.0
+NFLX-EXP-1210,Personalized Genre Re-engagement,2026-08-11,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1211,Frictionless Payment Resolution,2026-09-02,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1212,Plan Right-Sizing Advisory,2026-08-20,True,Retention Lead (Trial Run),True,False,Churned,30,1.25
+NFLX-EXP-1213,Frictionless Payment Resolution,2026-08-13,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1214,Personalized Genre Re-engagement,2026-09-15,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1215,Personalized Genre Re-engagement,2026-08-13,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1216,Personalized Genre Re-engagement,2026-08-20,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1217,VIP Priority Care Outreach,2026-08-12,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1218,Targeted Win-Back & Trending Highlight,2026-08-13,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1219,Plan Right-Sizing Advisory,2026-09-05,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1220,Frictionless Payment Resolution,2026-09-06,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1221,VIP Priority Care Outreach,2026-09-13,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1222,Targeted Win-Back & Trending Highlight,2026-08-15,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1223,VIP Priority Care Outreach,2026-08-31,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1224,Frictionless Payment Resolution,2026-08-08,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1225,Frictionless Payment Resolution,2026-09-01,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1226,Personalized Genre Re-engagement,2026-09-11,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1227,Personalized Genre Re-engagement,2026-09-08,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1228,Plan Right-Sizing Advisory,2026-08-22,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1229,Plan Right-Sizing Advisory,2026-08-09,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1230,Plan Right-Sizing Advisory,2026-09-05,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1231,Targeted Win-Back & Trending Highlight,2026-09-03,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1232,Plan Right-Sizing Advisory,2026-08-18,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1233,Frictionless Payment Resolution,2026-09-05,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1234,Frictionless Payment Resolution,2026-09-10,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1235,Frictionless Payment Resolution,2026-08-25,True,Retention Lead (Trial Run),True,False,Churned,30,2.5
+NFLX-EXP-1236,VIP Priority Care Outreach,2026-08-30,True,Retention Lead (Trial Run),True,False,Churned,30,8.0
+NFLX-EXP-1237,Targeted Win-Back & Trending Highlight,2026-08-21,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
+NFLX-EXP-1238,Personalized Genre Re-engagement,2026-08-16,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1239,Personalized Genre Re-engagement,2026-09-12,True,Retention Lead (Trial Run),True,False,Churned,30,0.85
+NFLX-EXP-1240,VIP Priority Care Outreach,2026-08-27,True,Retention Lead (Trial Run),True,False,Active,30,8.0
+NFLX-EXP-1241,Plan Right-Sizing Advisory,2026-08-09,True,Retention Lead (Trial Run),False,True,Active,30,0.0
+NFLX-EXP-1242,Frictionless Payment Resolution,2026-09-07,True,Retention Lead (Trial Run),False,True,Churned,30,0.0
+NFLX-EXP-1243,Personalized Genre Re-engagement,2026-08-27,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1244,Plan Right-Sizing Advisory,2026-09-12,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1245,Plan Right-Sizing Advisory,2026-08-20,True,Retention Lead (Trial Run),True,False,Active,30,1.25
+NFLX-EXP-1246,Targeted Win-Back & Trending Highlight,2026-09-01,True,Retention Lead (Trial Run),True,False,Active,30,1.4
+NFLX-EXP-1247,Personalized Genre Re-engagement,2026-09-12,True,Retention Lead (Trial Run),True,False,Active,30,0.85
+NFLX-EXP-1248,Frictionless Payment Resolution,2026-08-27,True,Retention Lead (Trial Run),True,False,Active,30,2.5
+NFLX-EXP-1249,Targeted Win-Back & Trending Highlight,2026-08-30,True,Retention Lead (Trial Run),True,False,Churned,30,1.4
